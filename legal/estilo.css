@@ -1,0 +1,5 @@
+body{margin:0;background:#fff;color:#1F1A33;font:16px/1.65 Arial,Helvetica,sans-serif}
+main{max-width:760px;margin:0 auto;padding:40px 16px 64px}
+h1{font-size:28px;margin:0 0 4px}h2{font-size:19px;margin:28px 0 8px}
+.f{color:#5F5876;font-size:14px;margin:0 0 24px}a{color:#8E74DB}
+.top{height:6px;background:linear-gradient(90deg,#F9A25B,#EE6F78 30%,#DE72A9 55%,#8E74DB 80%,#64A0EE)}
